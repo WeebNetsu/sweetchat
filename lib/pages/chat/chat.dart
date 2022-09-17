@@ -105,7 +105,7 @@ class _ChatPageState extends State<ChatPage> {
                       padding: const EdgeInsets.all(3.0),
                       child: IconButton(
                         onPressed: () {},
-                        icon: Icon(Icons.send),
+                        icon: const Icon(Icons.send),
                         color: Colors.white,
                       ),
                     ),

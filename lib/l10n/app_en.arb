@@ -43,5 +43,9 @@
         "type": "String"
       }
     }
+  },
+  "logout": "Log Out",
+  "@logout": {
+    "description": "Text for when a user wants to log out"
   }
 }

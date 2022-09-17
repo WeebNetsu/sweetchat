@@ -65,6 +65,12 @@ class _HomePageState extends State<HomePage> {
                   trailingIcon: const Icon(Icons.question_mark_sharp),
                   onPressed: () {},
                 ),
+                FocusedMenuItem(
+                  title: Text(appLocalizations.logout),
+                  backgroundColor: isDarkTheme ? Colors.black54 : Colors.white,
+                  trailingIcon: const Icon(Icons.logout),
+                  onPressed: () => Navigator.popAndPushNamed(context, "/login"),
+                ),
               ],
             ),
           ],
