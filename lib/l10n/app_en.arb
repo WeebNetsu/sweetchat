@@ -1,0 +1,47 @@
+{
+  "language": "English",
+  "@language": {
+    "description": "This is the language"
+  },
+  "pushedBtn": "Other options:",
+  "@pushedBtn": {
+    "description": "Template text for click button"
+  },
+  "profileText": "Profile",
+  "@profileText": {
+    "description": "Profile text"
+  },
+  "settingsText": "Settings",
+  "@settingsText": {
+    "description": "Settings text"
+  },
+  "newGroupText": "New Group",
+  "@newGroupText": {
+    "description": "Text for creating a new group"
+  },
+  "aboutText": "About",
+  "@aboutText": {
+    "description": "About text"
+  },
+  "chatTabStatus": "Status",
+  "@chatTabStatus": {
+    "description": "Status tab on the home page"
+  },
+  "chatTabChats": "Chats",
+  "@chatTabChats": {
+    "description": "Chats tab on the home page"
+  },
+  "chatTabGroups": "Groups",
+  "@chatTabGroups": {
+    "description": "Groups tab on the home page"
+  },
+  "switchLanguageBtn": "Switch from {language}",
+  "@switchLanguageBtn": {
+    "description": "Button text to change language",
+    "placeholders": {
+      "language": {
+        "type": "String"
+      }
+    }
+  }
+}

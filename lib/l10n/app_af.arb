@@ -1,0 +1,12 @@
+{
+  "language": "Afrikaans",
+  "pushedBtn": "Ander opsies:",
+  "switchLanguageBtn": "Verander vanaf {language}",
+  "settingsText": "Instellings",
+  "aboutText": "Oor Ons",
+  "newGroupText": "Nuwe Groep",
+  "chatTabStatus": "Status",
+  "chatTabChats": "Gesels",
+  "chatTabGroups": "Groepe",
+  "profileText": "Profiel"
+}
